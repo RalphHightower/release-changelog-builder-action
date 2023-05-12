@@ -12,6 +12,13 @@
             "title": "## 🧪 Tests",
             "labels": ["test"]
         }
+        {   
+            "title": "## Documentation",
+            "labels": ["docs"]
+        }
+        {
+            "title": "Experimental",
+            "labels": ["LSD"]
     ],
     "sort": "ASC",
     "template": "${{CHANGELOG}}",
